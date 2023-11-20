@@ -1,5 +1,5 @@
-# Android ChatGPT API apps
-Here I will be collecting a list of Android Apps ChatGPT that can run for free on OpenAi API.
+# ChatGPT API apps
+Here I will be collecting a list of Apps and WebApps ChatGPT that can run for free on OpenAi API.
 
 ---
 
@@ -8,7 +8,7 @@ Here I will be collecting a list of Android Apps ChatGPT that can run for free o
   - [Android](#android)
     - [SpeakGPT](#speakgpt)
 
-<!-- vim-markdown-toc -->
+  <!-- vim-markdown-toc -->
 
 ---
 
