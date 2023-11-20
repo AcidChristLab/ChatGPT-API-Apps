@@ -3,7 +3,7 @@ Here I will be collecting a list of Android Apps ChatGPT that can run for free o
 
 ---
 1. Android apps
-- [SpeakGPT](https://github.com/VelvetAcidChrist/Android-chatgpt-API-apps/README.md#speakgpt)
+- [SpeakGPT](https://github.com/VelvetAcidChrist/Android-chatgpt-API-apps/tree/main#speakgpt)
 ---
 
 ## SpeakGPT
